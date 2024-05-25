@@ -11,7 +11,7 @@ circles = cv2.HoughCircles(img1,cv2.HOUGH_GRADIENT,0.5,10,
  
 circles = np.uint16(np.around(circles))
 for i in circles[0,:]:
- # draw the outer circle
+ # draw the circle
  cv2.circle(img1,(i[0],i[1]),i[2],(0,255,0),2)
 
  

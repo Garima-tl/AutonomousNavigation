@@ -10,7 +10,7 @@ Implementing YOLOv for detecting objects such as cuboids.
 Extracting centroids of detected cuboids and computing their 3D coordinates relative to the stereo camera setup.
 This integration enables robust spatial understanding and localization capabilities crucial for applications in robotics, automation, and scenarios where GPS signals may be unreliable or unavailable.
 
-# TASK 1 - You have to write an efficient code for detecting a tennis ball using Canny edge detection and Hough transform. The goal is to accurately identify the ball's circular shape while minimizing errors and optimizing performance. (You can use blurring , masking, parameter tunning etc for optimizing your code ).
+ TASK 1 - You have to write an efficient code for detecting a tennis ball using Canny edge detection and Hough transform. The goal is to accurately identify the ball's circular shape while minimizing errors and optimizing performance. (You can use blurring , masking, parameter tunning etc for optimizing your code ).
 
 1. Fork this GitHub repo.  
 2. Clone your forked repo to your laptop locally.  
